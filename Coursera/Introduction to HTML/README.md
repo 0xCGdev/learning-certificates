@@ -1,8 +1,8 @@
 # 📜 Certificate of Completion: Introduction to HTML
 
-This repository documents the completion of the Introduction to HTML guided project, certified by Coursera.
+This repository documents the completion of the **Introduction to HTML** guided project, certified by **Coursera**.
 
-The certificate was awarded to Chandra Gumilang upon successful completion of the guided hands-on exercises and demonstrations focused on foundational HTML concepts and web development practices.
+The certificate was awarded to **Chandra Gumilang** upon successful completion of the guided hands-on exercises and demonstrations focused on **foundational HTML concepts** and **web development practices**.
 
 ---
 
@@ -30,8 +30,9 @@ Key learning outcomes include:
 
 ℹ️ Certificate Details
 
-* Issued To: Chandra Gumilang
-* Course: Introduction to HTML
-* Issued By: Coursera
-* Date Issued: 07/11/2025
-* Certification ID: 1BGL1MWFBM9U
+* **Issued To:** Chandra Gumilang
+* **Course:** Introduction to HTML
+* **Issued By:** Coursera
+* **Date Issued:** 07/11/2025
+* **Certification ID:** 1BGL1MWFBM9U
+* **Verify Certificate:** [https://www.coursera.org/verify/1BGL1MWFBM9U](https://www.coursera.org/verify/1BGL1MWFBM9U)
