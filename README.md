@@ -10,6 +10,7 @@ This repository serves as a collection of all the courses and certifications I h
 | HTML Fundamentals | Coddy | Oct 2025 | - | CY1RWx-html-mQsrS3 | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/HTML%20Fundamentals/CY1RWx-html-mQsrS3.pdf) |
 | HTML | Mimo | Nov 2025 | - | - | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Mimo/HTML/mimo-certificates-194.pdf) |
 | HTML styling with CSS | Coddy | Nov 2025 | - | CY1RWx-html-P457Ik | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coddy/HTML%20styling%20with%20CSS/CY1RWx-html-P457Ik.pdf)
+| Introduction to HTML | Coursera | Nov 2025 | - | 1BGL1MWFBM9U | [View PDF](https://github.com/0xCGdev/learning-certificates/blob/main/Coursera/Introduction%20to%20HTML/Coursera%201BGL1MWFBM9U.pdf) |
 
 ---
 <p align="center">
