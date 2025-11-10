@@ -36,8 +36,9 @@ The course included several projects that solidified theoretical understanding t
 
 ℹ️ Certificate Details
 
-* Issued To: Chandra Gumilang
-* Course: HTML Styling with CSS
-* Issued By: Coddy Team (Signed by Kevin Spektor, CTO)
-* Date Issued: 07/11/2025
-* Certification ID: CY1RWx-html-P457Ik
+* **Issued To:** Chandra Gumilang
+* **Course:** HTML Styling with CSS
+* **Issued By:** Coddy Team (Signed by Kevin Spektor, CTO)
+* **Date Issued:** 07/11/2025
+* **Certification ID:** CY1RWx-html-P457Ik
+* **Credential URL:** [https://coddy.tech/certifications/CY1RWx-html-P457Ik](https://coddy.tech/certifications/CY1RWx-html-P457Ik)
