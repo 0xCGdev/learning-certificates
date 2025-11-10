@@ -21,6 +21,18 @@ The main topics and modules covered include:
 
 ---
 
+## 📝 Practical Projects
+
+Hands-on projects were developed to demonstrate the application of layout systems and responsive principles:
+
+### 🏕️ Hobby Club Landing Page (Flexbox)
+A community-themed landing page built using **Flexbox**, featuring vertically stacked sections, centered content, and hover animations for interactive user experience.
+
+### 🍔 Flavor Fiesta Website (CSS Grid)
+A culinary-themed layout built using **CSS Grid**, showcasing featured recipes with structured alignment, clean typography, and responsive adaptation across screen sizes.
+
+---
+
 ## ℹ️ Certificate Details
 
 - **Issued To:** Chandra Gumilang  
