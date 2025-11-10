@@ -26,9 +26,11 @@ The theoretical knowledge was solidified through several hands-on projects, demo
 ---
 
 ## ℹ️ Certificate Details
-* Issued To: Chandra Gumilang
-* Course: HTML Fundamentals
-* Issued By: Coddy Team (Signed by Kevin Spektor, CTO)
-* Date Issued: 30/10/2025
-* Certification ID: CY1RWx-html-mQsrS3
+* **Issued To:** Chandra Gumilang
+* **Course:** HTML Fundamentals
+* **Issued By:** Coddy Team (Signed by Kevin Spektor, CTO)
+* **Date Issued:** 30/10/2025
+* **Certification ID:** CY1RWx-html-mQsrS3
+* **Credential URL:** [https://coddy.tech/certifications/CY1RWx-html-mQsrS3](https://coddy.tech/certifications/CY1RWx-html-mQsrS3)
+
 
