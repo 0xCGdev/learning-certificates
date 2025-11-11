@@ -1,57 +1,69 @@
-# 📜 Certificate of Completion: Word Forms and Simple Present Tense  
-This repository documents the completion of the **Word Forms and Simple Present Tense** course, certified by the **University of California, Irvine** through Coursera.
+# 📜 Certificate of Completion: Word Forms and Simple Present Tense
 
-The certificate was awarded to **Chandra Gumilang** upon successful completion of all grammar-focused modules covering English word forms, verb usage, possessives, and sentence patterns in the present tense.
+This repository documents the completion of the **Word Forms and Simple Present Tense** course, certified by the **University of California, Irvine** through **Coursera**.
+
+The certificate was awarded to **Chandra Gumilang** on **07/11/2025**, after successfully completing all modules focused on **English word forms**, **simple present tense**, and **question structures**.
 
 ---
 
-## 📚 What I Learned  
-This course provided a detailed and practical understanding of **English grammar fundamentals**, focusing on **word forms** and **simple present tense structures**. Through interactive lessons and exercises, I learned to:
+## 📚 What I Learned
 
-- Identify and form correct **word structures** (nouns, verbs, adjectives, and adverbs).  
-- Use the **BE verb (am, is, are)** in affirmative, negative, and question sentences.  
-- Apply **simple present verbs** accurately with both regular and irregular verbs.  
-- Understand and use **possessive forms** to show ownership.  
-- Form sentences with **“there is” and “there are”** to describe existence.  
+This course strengthened my foundation in English grammar and sentence formation using the **simple present tense**.  
+Through interactive lessons and exercises, I learned to:
+
+- Understand the use of the **BE verb (am, is, are)** in affirmative, negative, and question sentences.  
+- Form **simple present tense sentences** with regular and irregular verbs.  
 - Construct **negative statements** using “do not” and “does not.”  
-- Build **yes/no questions** using both “BE” and “simple present” verbs.  
-- Strengthen grammatical accuracy through **practice exercises** for each topic.  
+- Build **yes/no questions** using the BE verb.  
+- Recognize and use **word forms** (nouns, verbs, adjectives, adverbs) to create clear and accurate sentences.  
+- Improve grammar accuracy through guided practice in every module.
 
-These lessons helped improve my ability to construct grammatically correct and meaningful English sentences, providing a solid foundation for clear written and spoken communication.
-
----
-
-## 🧠 About This Course  
-The course is divided into multiple modules, each including guided explanations and practice activities:
-
-1. **Word Forms & Practice Exercises**  
-   Introduction to parts of speech and how to form words correctly.  
-2. **BE Verb & Practice Exercises**  
-   Using “am,” “is,” and “are” in different sentence structures.  
-3. **Nouns & Articles**  
-   Understanding countable and uncountable nouns, and when to use “a,” “an,” or “the.”  
-4. **Go, Do & Have**  
-   Learning how to use these common verbs in everyday English.  
-5. **Simple Present Verbs**  
-   Building sentences with verbs in the simple present tense.  
-6. **Possessives**  
-   Expressing ownership with apostrophes and possessive adjectives.  
-7. **Negative BE & Simple Present Negative**  
-   Creating negative statements using “BE” and auxiliary verbs.  
-8. **There Is & There Are**  
-   Describing people, places, and things using existence structures.  
-9. **Yes or No Questions (BE and Simple Present)**  
-   Forming and answering basic yes/no questions using proper grammar.  
-
-Each section reinforced grammatical concepts through short lessons, exercises, and contextual examples that improve fluency and accuracy.
+These lessons helped me gain more confidence in using present tense grammar to describe facts, routines, and general truths clearly and correctly.
 
 ---
 
-## ℹ️ Certificate Details  
+## 🧠 About This Course
 
-**Issued To:** Chandra Gumilang  
-**Course:** Word Forms and Simple Present Tense  
-**Issued By:** University of California, Irvine (via Coursera)  
-**Date Issued:** 07/11/2025  
-**Certification ID:** GVHZJRUWXZI7  
-**Verify Certificate:** [coursera.org/verify/GVHZJRUWXZI7](https://coursera.org/verify/GVHZJRUWXZI7)
+The course is divided into **four key modules**, each providing structured grammar instruction and practice activities:
+
+### 📘 **Module 1 – Introduction & BE Verb**
+- Introduction to the BE verb forms (*am, is, are*).  
+- Understanding subject-verb agreement and basic sentence construction.  
+- Practice exercises on BE verb usage.
+
+### 📗 **Module 2 – Simple Present**
+- Learning when and how to use **simple present tense** verbs.  
+- Differentiating between third-person and plural verb forms.  
+- Using verbs like *go, do,* and *have* in everyday English.
+
+### 📙 **Module 3 – Simple Present Negative**
+- Creating **negative sentences** using “don’t” and “doesn’t.”  
+- Understanding auxiliary verb patterns and contractions.  
+- Practice exercises for both BE and simple present negatives.
+
+### 📒 **Module 4 – Yes or No Question (BE)**
+- Forming **yes/no questions** using BE.  
+- Practicing sentence inversion and response forms (Yes, I am / No, I’m not).  
+- Reinforcing grammar through short exercises and examples.
+
+---
+
+## 🖼️ Module Snapshots
+
+| Module | Example Lessons |
+|:--|:--|
+| **Module 1** | Introduction · BE Verb (am, is, are) |
+| **Module 2** | Simple Present Verbs (go, do, have) |
+| **Module 3** | Negative BE · Simple Present Negative |
+| **Module 4** | Yes or No Questions (BE) |
+
+---
+
+## ℹ️ Certificate Details
+
+- **Issued To:** Chandra Gumilang  
+- **Course:** Word Forms and Simple Present Tense  
+- **Issued By:** University of California, Irvine (via Coursera)  
+- **Date Issued:** 07/11/2025  
+- **Certification ID:** GVHZJRUWXZI7  
+- **Verify Certificate:** [coursera.org/verify/GVHZJRUWXZI7](https://coursera.org/verify/GVHZJRUWXZI7)
